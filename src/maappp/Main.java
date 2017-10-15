@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("gaha");
 		// lalaal
 		//lalal
-
+		int i= 0;
 	}
 
 }
